@@ -1,5 +1,5 @@
 {
-    "Version": "0.2",
+    "Version": "0.3",
     "ReleaseNotes": "Server Baru Tersedia Silakan Di Update",
     "Sms": "https://pastebin.com/raw/kmWQSd5e",
     "UrlUpdate": "https://pastebin.com/raw/sCLSnwPw",
@@ -17,7 +17,7 @@
     ],
     "Servers": [
         {
-            "Name": "SERVER PREMIUM",
+            "Name": "SERVER PREMIUM 1",
             "TYPE": "premium",
             "FLAG": "sg.png",
             "ServerIP": "sg-melbi2.toko-vpn.my.id",
