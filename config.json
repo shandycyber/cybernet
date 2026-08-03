@@ -1,5 +1,5 @@
 {
-    "Version": "0.1",
+    "Version": "0.2",
     "ReleaseNotes": "Server Baru Tersedia Silakan Di Update",
     "Sms": "https://pastebin.com/raw/kmWQSd5e",
     "UrlUpdate": "https://pastebin.com/raw/sCLSnwPw",
@@ -17,7 +17,7 @@
     ],
     "Servers": [
         {
-            "Name": "SERVER PREM 1",
+            "Name": "SERVER PREMIUM",
             "TYPE": "premium",
             "FLAG": "sg.png",
             "ServerIP": "sg-melbi2.toko-vpn.my.id",
@@ -28,7 +28,7 @@
             "PASS": "shandy27"
         },
         {
-            "Name": "SERVER PREM 2",
+            "Name": "SERVER PREMIUM 2",
             "TYPE": "premium",
             "FLAG": "sg.png",
             "ServerIP": "sg-lease.toko-vpn.my.id",
