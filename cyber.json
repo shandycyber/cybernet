@@ -1,5 +1,5 @@
 {
-    "Version": "0.2",
+    "Version": "0.3",
     "ReleaseNotes": "Server Baru Tersedia Silakan Di Update",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/shandycyber/cybernet/refs/heads/main/cyber.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "PREMIUM 1",
+            "Name": "PREMIUM 21",
             "TYPE": "premium",
             "FLAG": "sg.png",
             "ServerIP": "sg-public1.sshws.net",
