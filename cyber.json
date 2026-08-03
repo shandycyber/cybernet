@@ -1,5 +1,5 @@
 {
-    "Version": "0.1",
+    "Version": "0.2",
     "ReleaseNotes": "Server Baru Tersedia Silakan Di Update",
     "Sms": "",
     "UrlUpdate": "https://pastebin.com/raw/7xkCfueE",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "PREMIUM",
+            "Name": "PREMIUM 1",
             "TYPE": "premium",
             "FLAG": "sg.png",
             "ServerIP": "sg-public1.sshws.net",
